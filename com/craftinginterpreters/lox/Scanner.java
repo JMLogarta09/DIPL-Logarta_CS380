@@ -1,10 +1,10 @@
-package com.craftinginterpreters.lox;
+package com.craftinginterpreters.Lox;
 
 import java.util.ArrayList;
 import java.util.HashMap;
 import java.util.List;
 import java.util.Map;
-import static com.craftinginterpreters.lox.TokenType.*;
+import static com.craftinginterpreters.Lox.TokenType.*;
 
 class Scanner {
 	private static final Map<String, TokenType> keywords;

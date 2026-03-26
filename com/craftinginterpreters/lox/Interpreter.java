@@ -1,4 +1,4 @@
-package com.craftinginterpreters.lox;
+package com.craftinginterpreters.Lox;
 import java.util.List;
 
 class Interpreter implements Expr.Visitor<Object>,
