@@ -1,4 +1,4 @@
-package com.craftinginterpreters.Lox;
+package com.craftinginterpreters.lox;
 
 //import static com.craftinginterpreters.Lox.TokenType.values;
 
